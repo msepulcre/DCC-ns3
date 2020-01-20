@@ -18,16 +18,15 @@
  * 	    Gokulnath Thandavarayan <gthandavarayan@umh.es>
  * 	    Miguel Sepulcre <msepulcre@umh.es>
  *          Javier Gozalvez <j.gozalvez@umh.es>
+ *          UWICORE laboratory, http://www.uwicore.umh.es
  *
- */
-
-//
-// This script, adapted from examples/wireless/wifi-simple-adhoc illustrates
-// the use of DCC.
-//
-// ./waf --run dcc-example
-//
-// ./waf --run "dcc-example --Algorithm=Reactive"
+ * This script, adapted from examples/wireless/wifi-simple-adhoc illustrates
+ * the use of DCC.
+ *
+ * ./waf --run dcc-example
+ *
+ * ./waf --run "dcc-example --Algorithm=Reactive"
+*/
 
 #include "common-functions.h"
 

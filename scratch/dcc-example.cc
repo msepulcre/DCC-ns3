@@ -19,6 +19,7 @@
  * 	    Miguel Sepulcre <msepulcre@umh.es>
  *          Javier Gozalvez <j.gozalvez@umh.es>
  *          UWICORE laboratory, http://www.uwicore.umh.es
+ *          Universidad Miguel Hernandez de Elche (UMH), Spain
  *
  * This script, adapted from examples/wireless/wifi-simple-adhoc illustrates
  * the use of DCC.

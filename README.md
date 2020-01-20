@@ -19,6 +19,6 @@ How to install:
 
     Symply copy the "dcc" folder into your "src" folder.
     
-How to run the example:
+How to run the example script available in the "scratch" folder:
     
     ./waf --run "dcc-example --Algorithm=Reactive --simulationTime=20 --NumCars=200 --Speed=27"

@@ -8,3 +8,17 @@ In order to comply with our sponsor guidelines, we would appreciate if any publi
     "Analysis of the Application-Level Impact of ETSI DCC Access  in Vehicular Networks", 
     Submitted to IEEE Vehicular Technology Conference (VTCSpring 2020) (in reviewing process, to be updated)
 
+What DCC parameters can be modified:
+
+    Algorithm: Reactive, Adaptive or NoDCC
+    CBR target: only for Adaptive approach
+    Queue length
+    Packet life time
+
+How to install:
+
+    Symply copy the "dcc" folder into your "src" folder.
+    
+How to run the example:
+    
+    ./waf --run "dcc-example --Algorithm=Reactive --simulationTime=20 --NumCars=200 --Speed=27"

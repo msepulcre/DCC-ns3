@@ -17,7 +17,7 @@ What DCC parameters can be modified:
 
 How to install:
 
-    Symply copy the "dcc" folder into your "src" folder.
+    Simply copy the "dcc" folder into your "src" folder.
     
 How to run the example script available in the "scratch" folder:
     

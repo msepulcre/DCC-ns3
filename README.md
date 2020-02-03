@@ -17,7 +17,8 @@ What DCC parameters can be modified:
 
 How to install:
 
-    Simply copy the "dcc" folder into your "src" folder.
+    1.- Simply copy the "dcc" folder into your "src" folder.
+    2.- Configure and compile ns-3 following the normal procedure.
     
 How to run the example script available in the "scratch" folder:
     

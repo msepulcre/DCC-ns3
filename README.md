@@ -6,7 +6,7 @@ In order to comply with our sponsor guidelines, we would appreciate if any publi
 
     Miguel Sepulcre, Jorge Mira, Gokulnath Thandavarayan, Javier Gozalvez,
     "Analysis of the Impact at the Application Level of Decentralized Congestion Control in Vehicular Networks", 
-    Submitted to IEEE Vehicular Technology Conference (VTCSpring 2020) (in reviewing process, to be updated)
+    Proc. IEEE 91st Vehicular Technology Conference (VTC2020-Spring), Antwerp, Belgium, 25-28 May 2020. 
 
 What DCC parameters can be modified:
 

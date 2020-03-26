@@ -5,7 +5,7 @@ This is a software module for the network simulator ns-3 that implements the DCC
 In order to comply with our sponsor guidelines, we would appreciate if any publication using this software references the following publication:
 
     Miguel Sepulcre, Jorge Mira, Gokulnath Thandavarayan, Javier Gozalvez,
-    "Analysis of the Impact at the Application Level of Decentralized Congestion Control in Vehicular Networks", 
+    "Is Packet Dropping a Suitable Congestion Control Mechanism for Vehicular Networks?", 
     Proc. IEEE 91st Vehicular Technology Conference (VTC2020-Spring), Antwerp, Belgium, 25-28 May 2020. 
 
 What DCC parameters can be modified:
